@@ -1,0 +1,49 @@
+.hdr1{
+    color: white;
+    font-family: 'Times New Roman', Times, serif;
+    font-size: 2cm;
+    text-align: center;
+}
+
+.div1{
+    margin-left: 130px;
+    margin-top: 110px;
+    height: 350px;
+    width: 350px;
+}
+
+.div2{
+    margin-left: 800px;
+    margin-top: 110px;
+    height: 50px;
+    width: 600px;
+    font-size: .6cm;
+}
+
+.div3{
+    margin-left: 660px;
+    margin-top: -500px;
+    height: 220px;
+    width: 600px;
+    font-size: 1.1cm;
+}
+
+.div4{
+    margin-left: 655px;
+    margin-top: -510px;
+    height: 220px;
+    width: 700px;
+    font-size: .85cm;
+}
+
+.div5{
+    margin-left: 640px;
+    margin-top: -550px;
+    height: 220px;
+    width: 700px;
+    font-size: .65cm;
+}
+
+.img1{
+    border-radius: 50%;
+};
